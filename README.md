@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdrianFilsell
 - 👀 I’m interested in raster and vector graphics, multi core and multi threaded solutions using c++
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email
+- 🌱 I’m currently learning ... correct
+- 💞️ I’m looking to collaborate on ... tbc
+- 📫 How to reach me email: a_filo@outlook.com
 
 <!---
 AdrianFilsell/AdrianFilsell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
